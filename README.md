@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I am FPGA engineer in Czech Republic, technology enthusiast, food lover and Linux user (Fedora).
+
+- 🏢 I'm currently working at **CESNET z.s.p.o.**
+- 🎓 My Alma mater: **Brno University of Technology**
+- 📫 How to reach me: [**Twitter**](https://twitter.com/JakubCabal), [**Telegram**](https://t.me/jakubcabal)
+- ⚡ Fun fact: **I know my ancestors until the 17th century.**
+
 <!--
 **jakubcabal/jakubcabal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -10,7 +17,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
