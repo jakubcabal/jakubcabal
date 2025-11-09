@@ -6,6 +6,7 @@ I am FPGA engineer in Czech Republic, technology enthusiast, food lover and Linu
 - 🎓 My Alma mater: **Brno University of Technology**
 - 📫 How to reach me: [**Mastodon**](https://mamutovo.cz/@xcabal05)
 - ⚡ Fun fact: **I know my ancestors until the 17th century.**
+- 🎸 Music: [**ListenBrainz**](https://listenbrainz.org/user/xcabal05/)
 
 <!--
 **jakubcabal/jakubcabal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
