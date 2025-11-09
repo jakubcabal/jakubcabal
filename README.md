@@ -4,7 +4,7 @@ I am FPGA engineer in Czech Republic, technology enthusiast, food lover and Linu
 
 - 🏢 I'm currently working at **CESNET z.s.p.o.**
 - 🎓 My Alma mater: **Brno University of Technology**
-- 📫 How to reach me: [**Mastodon**](https://fosstodon.org/@xcabal05), [**Telegram**](https://t.me/jakubcabal)
+- 📫 How to reach me: [**Mastodon**](https://mamutovo.cz/@xcabal05)
 - ⚡ Fun fact: **I know my ancestors until the 17th century.**
 
 <!--
