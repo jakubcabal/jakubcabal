@@ -34,7 +34,7 @@ Zdroj: https://community.frame.work/t/laptop13-ryzen-ai-340-internal-mic-in-fedo
 
 ### Občasné problikávání obrazovky ve Firefoxu
 
-Objevil jsem [grafický bug s problikávající obrazovkou](https://youtu.be/TDF-SJ1IqJ0?si=aSxtN-LvwKktYuYX), který se projevuje při pohybu kurozoru na některých webech (například: ) ve Firefoxu.
+Objevil jsem [grafický bug s problikávající obrazovkou](https://youtu.be/TDF-SJ1IqJ0?si=aSxtN-LvwKktYuYX), který se projevuje při pohybu kurozoru na některých webech (například: https://hn.cz/) ve Firefoxu.
 Problém lze  vyřešit vložením `MUTTER_DEBUG_DISABLE_HW_CURSORS=1` do souboru `/etc/environment` a restartováním.
 
 Zdroj: https://community.frame.work/t/flickering-when-using-firefox-under-kde-wayland-on-ryzen-ai-300/69599/51
